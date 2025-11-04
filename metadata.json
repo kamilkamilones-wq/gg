@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Wirtualna Przymierzalnia (Virtual Try-On)",
+  "description": "Aplikacja do wirtualnego przymierzania ubrań, która generuje fotorealistyczne modele na podstawie danych użytkownika i zdjęć odzieży.",
+  "requestFramePermissions": []
+}
